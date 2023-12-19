@@ -1,0 +1,29 @@
+*{
+    background-color: #ea9a3c;
+    margin: 0;
+    padding: 0;
+    font-family:'Irish Grover', serif ;
+}
+h1{
+    background-color: black;
+    color: whitesmoke;
+    -webkit-text-stroke-width: 1px; 
+    -webkit-text-stroke-color: #ea9a3c;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#tex,p{
+    text-align: center;
+    margin: 100px ;
+}
+#generateRecipe{
+    padding: 10px 20px;
+    font-size: 18px;
+ 
+}
+#recipe{
+    margin : 100px;
+    text-align: center;
+}
